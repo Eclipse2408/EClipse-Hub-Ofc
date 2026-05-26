@@ -1,6 +1,6 @@
-# ECLIPSE HUB OFFICIAL GITHUB
+# TRon VOid HUB OFFICIAL GITHUB
 
-•Eclipse Hub Official By:Kassio Keiroz
+•TRon VOid Hub Official By:R I G B Y (@Kassio113)
 
 •Discord:discord.gg/eeTwpuGaVa
 
@@ -27,7 +27,5 @@
 •Lib Ui
 
 •Tradutor
-
-•Eclipse Modules
 
 # Ty For Visit :)♥️
